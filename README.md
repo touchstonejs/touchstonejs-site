@@ -1,2 +1,3 @@
-# touchstonejs-site
-TouchstoneJS Site and Docs
+# TouchstoneJS Site
+
+WIP; check back soon.
